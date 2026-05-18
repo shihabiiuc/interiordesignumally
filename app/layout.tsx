@@ -18,7 +18,33 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Interior Design Umally",
   description:
-    "We provide interior design & decoration services at whole Dhaka also other mejor cities of Bangladesh",
+    "We provide interior design & decoration services at whole Dhaka also other mejor cities of Bangladesh.",
+
+  openGraph: {
+    title: "Interior Design Umally",
+    description:
+      "We provide interior design & decoration services at whole Dhaka also other mejor cities of Bangladesh.",
+    url: "https://interiordesignumally.vercel.app/",
+    siteName: "Interior Design Website",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Interior Design Umally",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Interior Design Umally",
+    description:
+      "We provide interior design & decoration services at whole Dhaka also other mejor cities of Bangladesh.",
+    images: ["/og-image.jpg"],
+  },
 };
 
 export default function RootLayout({
