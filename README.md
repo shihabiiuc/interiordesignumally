@@ -7,7 +7,7 @@ This project focuses on clean UI design, reusable components, responsive layouts
 
 👉 Vercel: [https://interiordesignumally.vercel.app/](https://interiordesignumally.vercel.app/)
 
-![Website Screenshot](/og-screenshot.jpg)
+![Website Screenshot](./public/og-screenshot.jpg)
 
 ## Features
 
