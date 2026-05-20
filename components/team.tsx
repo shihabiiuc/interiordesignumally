@@ -2,45 +2,39 @@ import Image from "next/image";
 
 const members = [
   {
-    name: "Henry Lee",
-    role: "UX Engeneer",
-    avatar:
-      "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?q=80&w=2352&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    name: "Ehteshamul Haque Adit",
+    role: "3D Visualization Artist",
+    avatar: "/images/team/ehteshamul-haque-adit-BZdMrxFFm5Q-unsplash.jpg",
     link: "#",
   },
   {
-    name: "Isabella Garcia",
-    role: "Sales Manager",
-    avatar:
-      "https://images.unsplash.com/photo-1633625763717-045645e9e739?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    name: "Mahir Shahriar Khan",
+    role: "Project Manager",
+    avatar: "/images/team/mahir-shahriar-khan-PypsvwkVLJ8-unsplash.jpg",
     link: "#",
   },
   {
-    name: "Liam Brown",
+    name: "Mymoon Humayun",
     role: "Founder - CEO",
-    avatar:
-      "https://images.unsplash.com/photo-1758922584983-82ffd5720c6a?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    avatar: "/images/team/mymoon-humayun-8bHqwZc1BAw-unsplash.jpg",
     link: "#",
   },
   {
-    name: "Olivia Miller",
-    role: "Visual Designer",
-    avatar:
-      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    name: "Sheikh Nayim Hasan",
+    role: "Furniture & Decor Specialist",
+    avatar: "/images/team/sheikh-nayim-hasan-8EI_zKECGko-unsplash.jpg",
     link: "#",
   },
   {
-    name: "Ava Williams",
-    role: "Interaction Designer",
-    avatar:
-      "https://images.unsplash.com/photo-1605661107759-587d4bfdf168?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    name: "Sekantor Badshah Ovi",
+    role: "Architectural Consultant",
+    avatar: "/images/team/sekantor-badshah-ovi-rUGsVfipUnY-unsplash.jpg",
     link: "#",
   },
   {
-    name: "Elijah Jones",
-    role: "Co-Founder - CTO",
-    avatar:
-      "https://images.unsplash.com/photo-1563237023-b1e970526dcb?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    name: "Tarikul Raana",
+    role: "Senior Interior Designer",
+    avatar: "/images/team/tarikul-raana-W4MH9UK9WS8-unsplash.jpg",
     link: "#",
   },
 ];
